@@ -8,7 +8,7 @@ Click==7.0
 command-not-found==0.3
 cryptography==1.2.3
 defer==1.0.6
-Django==2.2.9
+Django==2.2.10
 django-filter==2.2.0
 djangorestframework==3.11.0
 feedparser==5.1.3
