@@ -32,6 +32,6 @@ class Evaluation(Base):
         unique_together = ['email', 'course']
 
     def __str__(self):
-        return "{name} avaliou o curso {course} com nota {evaluation}".format(name=self.name, course=self.course, evaluation=self.evaluation)
+        return "feito"
 
     
